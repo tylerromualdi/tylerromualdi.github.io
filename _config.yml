@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Tyler Romualdi"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Political Science Ph.D. Candidate"
   location         : "London, ON"
   employer         : "Western University"
   uri              : # URL
@@ -38,7 +38,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=iknO7JUAAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0005-3876-5185"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
