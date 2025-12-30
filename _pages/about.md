@@ -7,8 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my wesbite! I am a Ph.D. Candidate in the Department of Political Science at Western University. 
+# Welcome to Tyler's Website!
 
-Tyler's Personal Website
-======
-Please take a look at the links above to learn more about my research. 
+Thanks for visiting my website! I am a Ph.D. Candidate in the Department of Political Science at Western University.  
+
+## Tyler's Personal Website
+
+Please take a look at the links above to learn more about my research.
+
