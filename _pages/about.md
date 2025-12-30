@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Tyler's Website!"
+title: "Tyler Romualdi"
 author_profile: true
 redirect_from: 
   - /about/
