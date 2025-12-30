@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "romualdi_test.jpg"
+  avatar           : "profile.png"
   name             : "Tyler Romualdi"
   pronouns         : # example: "she/her"  
   bio              : "Political Science Ph.D. Candidate"
